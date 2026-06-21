@@ -19,12 +19,10 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 💻 My Tech Universe
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,python,mysql,git,github,vscode,intellij" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,idea&theme=dark" />
 </p>
 
 ---
